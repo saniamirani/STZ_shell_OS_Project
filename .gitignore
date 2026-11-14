@@ -1,0 +1,4 @@
+STZ_shell_OS_Project
+*.o
+*.out
+core
